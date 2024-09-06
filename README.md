@@ -46,3 +46,5 @@
 
 <hr/>
 <br>
+<h2>Show some  ❤️  by  🌟  some of the repositories! </h2>
+<h2>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</h2>
