@@ -1,4 +1,4 @@
-### Hi Creator and Developer👋
+### <h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! with Hi Creator and Developer👋 </h2>
                # ATUL_OLI -Portfolio
 <div align="center">We are the coders.....We the builders....</div>
 <h2 align="left">I'm a College student... , from Uttarakhand ....</h2>
@@ -42,9 +42,9 @@
 
 <div id="badges">
 
-
-
 <hr/>
 <br>
-<h2>Show some  ❤️  by  🌟  some of the repositories! </h2>
-<h2>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</h2>
+<div align="center">
+  <h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; some of the repositories!</h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
