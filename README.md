@@ -1,4 +1,4 @@
-### <h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! with Creators and Developers👋 </h2>
+### <h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! , Creators and Developers👋 </h2>
                # ATUL_OLI -Portfolio
 <div align="center">We are the coders.....We the builders....</div>
 <h2 align="left">I'm a College student... , from Uttarakhand ....</h2>
